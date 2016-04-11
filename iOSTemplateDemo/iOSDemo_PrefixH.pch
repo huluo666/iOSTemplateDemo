@@ -1,0 +1,19 @@
+//
+//  iOSDemo_PrefixH.pch
+//  iOSTemplateDemo
+//
+//  Created by luo.h on 16/4/11.
+//  Copyright © 2016年 appledev. All rights reserved.
+//
+
+#ifndef iOSDemo_PrefixH_pch
+#define iOSDemo_PrefixH_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "UIView+Frame.h"
+#import "UIColor+Expend.h"
+#import "UIButton+StateColor.h"
+#import "GlobalMacro.h"
+
+#endif /* iOSDemo_PrefixH_pch */
